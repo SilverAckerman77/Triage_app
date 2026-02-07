@@ -104,3 +104,10 @@ It assists in **prioritization and escalation decisions**.
 
 ## 📂 Project Structure
 
+Triage_app/
+├── streamlit_app.py        # Main Streamlit application
+├── requirements.txt        # Python dependencies
+├── README.md               # Project documentation
+├── LICENSE                 # Open-source license
+└── .devcontainer/          # Codespaces configuration
+
